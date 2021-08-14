@@ -6,16 +6,16 @@
     "tagline": "Simple, scalable state management",
     "docs": {
       "about-this-documentation": {
-        "title": "About this documentation",
-        "sidebar_label": "About this documentation"
+        "title": "MobX 문서에 대하여",
+        "sidebar_label": "MobX 문서에 대하여"
       },
       "actions": {
-        "title": "Updating state using actions",
+        "title": "action을 이용한 state 업데이트",
         "sidebar_label": "Actions"
       },
       "analyzing-reactivity": {
-        "title": "Analyzing reactivity",
-        "sidebar_label": "Analyzing reactivity {🚀}"
+        "title": "반응 분석하기",
+        "sidebar_label": "반응 분석하기 {🚀}"
       },
       "api": {
         "title": "MobX API Reference",
@@ -45,7 +45,7 @@
         "sidebar_label": "Computeds with arguments {🚀}"
       },
       "computeds": {
-        "title": "Deriving information with computeds",
+        "title": "computed를 이용한 정보 파생",
         "sidebar_label": "Computeds"
       },
       "configuration": {
@@ -57,8 +57,8 @@
         "sidebar_label": "Custom observables {🚀}"
       },
       "defining-data-stores": {
-        "title": "Defining data stores",
-        "sidebar_label": "Defining data stores"
+        "title": "데이터 스토어 정의",
+        "sidebar_label": "데이터 스토어 정의"
       },
       "enabling-decorators": {
         "title": "Enabling decorators",
@@ -68,8 +68,8 @@
         "title": "Migrating from MobX 4/5"
       },
       "installation": {
-        "title": "Installation",
-        "sidebar_label": "Installation"
+        "title": "설치 방법",
+        "sidebar_label": "설치 방법"
       },
       "intercept-and-observe": {
         "title": "Intercept & Observe",
@@ -85,7 +85,7 @@
         "title": "Installation"
       },
       "lazy-observables": {
-        "title": "Creating lazy observables",
+        "title": "Lazy observables 만들기",
         "sidebar_label": "Lazy observables {🚀}"
       },
       "LINKS": {
@@ -100,16 +100,16 @@
         "sidebar_label": "MobX-utils {🚀}"
       },
       "observable-state": {
-        "title": "Creating observable state",
+        "title": "observable state 만들기",
         "sidebar_label": "Observable state"
       },
       "react-integration": {
-        "title": "React integration",
-        "sidebar_label": "React integration"
+        "title": "React 통합",
+        "sidebar_label": "React 통합"
       },
       "react-optimizations": {
-        "title": "Optimizing React component rendering",
-        "sidebar_label": "React optimizations {🚀}"
+        "title": "리액트 컴포넌트 렌더링 최적화",
+        "sidebar_label": "React 최적화 {🚀}"
       },
       "react/react-integration": {
         "title": "React integration"
@@ -118,12 +118,12 @@
         "title": "Optimizing React component rendering"
       },
       "reactions": {
-        "title": "Running side effects with reactions",
+        "title": "reaction으로 부수효과 실행하기",
         "sidebar_label": "Reactions {🚀}"
       },
       "README": {
-        "title": "About MobX",
-        "sidebar_label": "About MobX"
+        "title": "MobX에 대하여",
+        "sidebar_label": "MobX에 대하여"
       },
       "refguide/action": {
         "title": "Updating state using actions"
@@ -175,18 +175,18 @@
         "sidebar_label": "Subclassing"
       },
       "the-gist-of-mobx": {
-        "title": "The gist of MobX",
-        "sidebar_label": "The gist of MobX"
+        "title": "MobX의 요지",
+        "sidebar_label": "MobX의 요지"
       },
       "understanding-reactivity": {
-        "title": "Understanding reactivity",
-        "sidebar_label": "Understanding reactivity"
+        "title": "반응성 이해하기",
+        "sidebar_label": "반응성 이해하기"
       }
     },
     "links": {
-      "API Reference": "API Reference",
-      "English Doc": "English Doc",
-      "Sponsors": "Sponsors",
+      "API 참고서": "API 참고서",
+      "영어 문서": "영어 문서",
+      "후원자": "후원자",
       "GitHub": "GitHub"
     },
     "categories": {
